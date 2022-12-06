@@ -91,9 +91,9 @@ V - PowerPoint
 
 Conclusion :
 - Young people tend to be using more drugs.
-- Men tend to be using more hard drugs but it is more or less equal for light drugs, alcohol and nicotine -> this can be explained by the opposite personnalities between men and women.
+- Men tend to be using more hard drugs but it is more or less equal for light drugs, alcohol and nicotine -> this can be explained by the opposite personalities between men and women.
 - Education doesn't seem to make a big difference in drug use but does change for nicotine addiction.
 - Cannabis is a gateway into using new drugs.
 - Countries where cannabis is legal have more drug consumers.
-- Personnality does have a big impact on drug consumption, especially openess to experience, impulsiveness and sensation seeing.
+- Personality does have a big impact on drug consumption, especially openness to experience, impulsiveness and sensation seeing.
 
