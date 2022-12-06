@@ -93,7 +93,7 @@ IV - API :
 V - PowerPoint
 
 Conclusion :
--Young people tend to be using more drugs.
--Cannabis is a gateway into using new drugs.
--Countries where cannabis is legal have more drug consumers.
+- Young people tend to be using more drugs.
+- Cannabis is a gateway into using new drugs.
+- Countries where cannabis is legal have more drug consumers.
 
