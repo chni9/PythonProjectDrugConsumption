@@ -68,8 +68,8 @@ III - Machine Learning Model :
 - get the 3 PCs
 
 2-Plot
--Graph of variables : PC1&PC2, PC1&PC3 and PC2&PC3
--Scatter plots for each criteria (age, gender, etc.) for PC1&PC2, PC1&PC3 and PC2&PC3
+- Graph of variables : PC1&PC2, PC1&PC3 and PC2&PC3
+- Scatter plots for each criteria (age, gender, etc.) for PC1&PC2, PC1&PC3 and PC2&PC3
 
 3-Applying the ML model
 -generate train and test sets
