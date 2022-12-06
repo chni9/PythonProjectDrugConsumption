@@ -74,11 +74,7 @@ III - Machine Learning Model :
 3-Applying the ML model
 - generate train and test sets
 - applying Linear SVC model
-- for each criteria :train the model
-                     get the predictions
-                     obtain a score (percentage of right predictions)
-                     confusion matrix
-                     cross-validation score
+- for each criteria : train the model -> get the predictions -> obtain a score (percentage of right predictions) -> confusion matrix -> cross-validation score
 - repeat the process with KNN model
 - repeat the process with KNN optimized
 - compare the models and choose the right one for each criteria
