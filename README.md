@@ -72,9 +72,9 @@ III - Machine Learning Model :
 - Scatter plots for each criteria (age, gender, etc.) for PC1&PC2, PC1&PC3 and PC2&PC3
 
 3-Applying the ML model
--generate train and test sets
--applying Linear SVC model
--for each criteria : train the model
+- generate train and test sets
+- applying Linear SVC model
+- for each criteria :train the model
                      get the predictions
                      obtain a score (percentage of right predictions)
                      confusion matrix
